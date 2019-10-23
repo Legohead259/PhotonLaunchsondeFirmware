@@ -1,0 +1,5 @@
+{
+    "sketch": "Remote_Ignite_Test.ino",
+    "board": "adafruit:avr:feather32u4",
+    "port": "COM9"
+}

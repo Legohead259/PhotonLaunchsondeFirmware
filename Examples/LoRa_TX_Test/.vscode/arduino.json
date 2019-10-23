@@ -1,0 +1,5 @@
+{
+    "sketch": "LoRa_TX_Test.ino",
+    "board": "adafruit:avr:feather32u4",
+    "port": "COM13"
+}

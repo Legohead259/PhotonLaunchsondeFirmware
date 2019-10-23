@@ -1,0 +1,5 @@
+{
+    "sketch": "CardInfo.ino",
+    "port": "COM5",
+    "board": "adafruit:avr:feather32u4"
+}

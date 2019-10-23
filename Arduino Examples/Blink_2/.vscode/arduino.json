@@ -1,0 +1,5 @@
+{
+    "sketch": "Blink.ino",
+    "port": "COM1",
+    "board": "adafruit:avr:feather32u4"
+}

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "D:\\OneDrive - Florida Institute of Technology\\Projects\\Project Photon\\Launchsonde\\Instrumentation Package\\Code\\v0.1\\Altimeter"
+		},
+		{
+			"path": "D:\\OneDrive - Florida Institute of Technology\\Projects\\Project Photon\\Launchsonde\\Instrumentation Package\\Code\\Examples\\MPL3115A2_Loomis"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"istream": "cpp"
+		}
+	}
+}

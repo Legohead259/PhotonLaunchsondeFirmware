@@ -1,0 +1,5 @@
+{
+    "sketch": "MPL3115A2_Test.ino",
+    "board": "adafruit:avr:feather32u4",
+    "port": "COM5"
+}

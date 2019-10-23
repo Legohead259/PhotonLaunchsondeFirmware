@@ -1,0 +1,5 @@
+{
+    "sketch": "LS_firmware_v01.2.ino",
+    "board": "adafruit:avr:feather32u4",
+    "port": "COM16"
+}

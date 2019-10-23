@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\Users\\legoh\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\avr\\1.4.13\\**"
+                "C:\\Users\\legoh\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\avr\\1.4.13\\**",
+                "${workspaceFolder}/libraries/**"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "msvc-x64",
